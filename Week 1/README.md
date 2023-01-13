@@ -1,6 +1,6 @@
 # CS118 Project 1 Demo
 
-This is the repo for spring 2022 cs118 project 1.
+This is the repo for winter 2023 cs118 project 1.
 
 ## Makefile
 
